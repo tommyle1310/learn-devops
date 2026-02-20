@@ -1,0 +1,12 @@
+{
+  "name": "learn-devops",
+  "version": "1.0.0",
+  "description": "Learn devops",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Tommy Le",
+  "license": "MIT"
+}
